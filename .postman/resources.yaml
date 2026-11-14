@@ -1,0 +1,7 @@
+workspace:
+  id: edfb3d6c-b34a-420b-8814-7224927b967e
+cloudResources:
+  collections:
+    ../postman/collections/Flutter Labs: 58782718-aeb38b7e-6903-451c-a52e-0a3c89f67f26
+  environments:
+    ../postman/environments/Local.environment.yaml: 58782718-bdc8a17d-7f42-4030-8bac-0d94ad8e3115
